@@ -11,7 +11,7 @@ def about_django(request):
         Проект поддерживается организацией Django Software Foundation.'
     return HttpResponse(html)
 
-def about_me(request):
+def about_m(request):
     html = '<h1>Кабаков Антон Михайлович</h1>\
         Студент GeekBrains'
     return HttpResponse(html)
