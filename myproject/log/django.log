@@ -1,0 +1,46 @@
+Watching for file changes with StatReloader
+"GET /cube/ HTTP/1.1" 200 1
+"GET /cube/ HTTP/1.1" 200 1
+C:\Users\kabaa\Desktop\Python\Python_django\Homework1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /cube/ HTTP/1.1" 200 1
+C:\Users\kabaa\Desktop\Python\Python_django\Homework1\myproject\Ex005\views.py changed, reloading.
+Watching for file changes with StatReloader
+1
+"GET /cube/ HTTP/1.1" 200 1
+C:\Users\kabaa\Desktop\Python\Python_django\Homework1\myproject\Ex005\views.py changed, reloading.
+Watching for file changes with StatReloader
+Выпал 3
+"GET /cube/ HTTP/1.1" 200 1
+Выпал Орёл
+"GET /coin/ HTTP/1.1" 200 8
+C:\Users\kabaa\Desktop\Python\Python_django\Homework1\myproject\myproject\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\kabaa\Desktop\Python\Python_django\Homework1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Выпал <h1>Джанго</h1>
+"GET /about_django/ HTTP/1.1" 200 21
+C:\Users\kabaa\Desktop\Python\Python_django\Homework1\myproject\Ex008\views.py changed, reloading.
+Watching for file changes with StatReloader
+Выпал <h1>Джанго</h1>        Это свободный фреймворк для веб-приложений на языке Python,<br>        использующий шаблон проектирования MVC.<br>        Проект поддерживается организацией Django Software Foundation.
+"GET /about_django/ HTTP/1.1" 200 321
+C:\Users\kabaa\Desktop\Python\Python_django\Homework1\myproject\Ex008\views.py changed, reloading.
+Watching for file changes with StatReloader
+Выпал <h1>Джанго</h1>           Это свободный фреймворк для веб-приложений на языке Python,<br>        использующий шаблон проектирования MVC.<br>        Проект поддерживается организацией Django Software Foundation.
+"GET /about_django/ HTTP/1.1" 200 324
+Выпал <h1>Джанго</h1>           Это свободный фреймворк для веб-приложений на языке Python,<br>        использующий шаблон проектирования MVC.<br>        Проект поддерживается организацией Django Software Foundation.
+"GET /about_django/ HTTP/1.1" 200 324
+C:\Users\kabaa\Desktop\Python\Python_django\Homework1\myproject\Ex008\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /about_me/
+"GET /about_me/ HTTP/1.1" 404 3103
+C:\Users\kabaa\Desktop\Python\Python_django\Homework1\myproject\Ex008\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Выпал <h1>Кабаков Антон Михайлович</h1>        Студент GeekBrains
+"GET /about_me/ HTTP/1.1" 200 88
+C:\Users\kabaa\Desktop\Python\Python_django\Homework1\myproject\Ex008\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\kabaa\Desktop\Python\Python_django\Homework1\myproject\Ex008\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /about_me/ HTTP/1.1" 200 88
